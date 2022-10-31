@@ -3,7 +3,7 @@
 
 
 
-### [1. Разработка консольного приложения. Вещественноечисло и символ](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_1.c)
+### [1. Разработка консольного приложения. Вещественно ечисло и символ](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_1.c)
 
 ### [2. Расчёт значения функции в заданной точке](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_2.c)
 
