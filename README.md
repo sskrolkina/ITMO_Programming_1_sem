@@ -10,5 +10,5 @@
 
 ## 5.Массивы
 
-### [Массивы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/1.c)
-### [Матрицы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/2.c)
+### [- Массивы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/1.c)
+### [- Матрицы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/2.c)
