@@ -8,5 +8,7 @@
 
 ## [4.Логические операции](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_4.c)
 
-## [5.Массивы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/1.c)
-### [5.Матрицы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/2.c)
+## 5.Массивы
+
+### [Массивы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/1.c)
+### [Матрицы](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_5/2.c)
