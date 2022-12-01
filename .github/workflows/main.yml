@@ -1,21 +1,20 @@
-name: C/C++ CI
+name: Super-Linter
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+on: push
 
 jobs:
   build:
-
+    name: Lint code base
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: install cppunit
-      run: sudo apt install -y libcppunit-dev
-    - name: make
-      run: make
-    - name: make test
-      run: make test
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: Lint Code Base
+        uses: github/super-linter@v4
+        env:
+          VALIDATE_ALL_CODEBASE: false
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
