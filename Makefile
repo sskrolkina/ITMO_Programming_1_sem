@@ -1,8 +1,8 @@
 all:
- g++ -std=c++17 algorithms_1.cpp -o algorithms_1
+gcc -std=c task9.c -o task9
 
 test:
- chmod +x algorithms_1
+ chmod +x task9
 
 clean:
- $(RM) algorithms_1
+ $(RM) task9
