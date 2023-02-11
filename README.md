@@ -35,3 +35,6 @@
 ##### [- Поиск в строке последнего вхождения указанного символа](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_8/4.c)
 ##### [- Определить длину отрезка одной строки, не содержащего символы второй строки](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_8/5.c)
 
+##### [9. Циклы и ветвления](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_9.c)
+
+##### [10. Функции](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_10.c)
