@@ -41,4 +41,4 @@
 
 ##### [11. Функции использование заголовочных файлов. Равнобедренный треугольник](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_11)
 
-##### [12. Операции ввода-вывода. Вывод в файл]((https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_12/main.c)
+##### [12. Операции ввода-вывода. Вывод в файл](https://github.com/sskrolkina/ITMO_Programming_1_sem/blob/main/Task_12/main.c)
